@@ -20,10 +20,10 @@ Operating System: Target 1
 Purpose: To expose a vulnerable WordPress server
 IP Address: 192.168.1.110
 
-#Name of VM 3 : Capstone
-#Operating System: Terminal
-#Purpose: Sends Filebeat and Metricbeat logs to the ELK machine and solely for testing alerts.
-#IP Address: 192.168.1.105
+Name of VM 3 : Capstone
+Operating System: Terminal
+Purpose: Sends Filebeat and Metricbeat logs to the ELK machine and solely for testing alerts.
+IP Address: 192.168.1.105
 
 Name of VM 4: ELK
 Operating System: Terminal
