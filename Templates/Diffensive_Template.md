@@ -1,4 +1,4 @@
-Blue Team: Summary of Operations
+### Blue Team: Summary of Operations
 
 Table of Contents
 
@@ -10,10 +10,10 @@ Network Topology.
 TODO: Fill out the information below.
 The following machines were identified on the network:
 
-Name of VM 1: Kali
-Operating System: Linux
-Purpose: To find the flags and passwords and other penetration test
-IP Address: 192.168.1.90
+-Name of VM 1: Kali
+-Operating System: Linux
+-Purpose: To find the flags and passwords and other penetration test
+-IP Address: 192.168.1.90
 
 Name of VM 2: Target 1
 Operating System: Target 1
