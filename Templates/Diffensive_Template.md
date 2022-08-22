@@ -37,7 +37,7 @@ Name of Alert 1
 •	Threshold: 400 For The Last 5 Minutes.
 •	Vulnerability Mitigated: HTTP Response Status Code.
 •	Reliability: Generates 100 at maximum so I say reliability as LOW.\
-•	Screenshot: 
+•	Screenshot: In PDF File
 
 
 Name of Alert 2
@@ -46,7 +46,7 @@ Name of Alert 2
 •	Threshold: 3500 Last 1 Minutes.
 •	Vulnerability Mitigated: Sum of Request Size Exceed the threshold.
 •	Reliability: as per the report, Five times the result exceeds the threshold set by 1500 values, so I say reliability as MEDIUM
-•	Screenshot:
+•	Screenshot: In PDF File
 
 Name of Alert 3
 •	CPU Usage Monitor is implemented as follows:
@@ -54,5 +54,5 @@ Name of Alert 3
 •	Threshold: 0.5
 •	Vulnerability Mitigated: Maximum System Processes Running on CPU Every Minute.
 •	Reliability: Reliability is LOW in this alert, because all the cpu usage goes way below 0.5.
-•	Screenshot:
+•	Screenshot: In PDF File
 
