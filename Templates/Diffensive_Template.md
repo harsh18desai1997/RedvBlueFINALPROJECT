@@ -56,7 +56,7 @@ Threshold: 3500 Last 1 Minutes.
 Vulnerability Mitigated: Sum of Request Size Exceed the threshold.
 Reliability: as per the report, Five times the result exceeds the threshold set by 1500 values, so I say reliability as MEDIUM
 Screenshot:
- ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
+ ![Alert 1](Screenshots/Alerts/HTTP_Errors_ Alert.jpg)
 
 Name of Alert 3
 CPU Usage Monitor is implemented as follows:
