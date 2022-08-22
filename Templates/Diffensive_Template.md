@@ -47,7 +47,7 @@ Threshold: 400 For The Last 5 Minutes.
 Vulnerability Mitigated: HTTP Response Status Code.
 Reliability: Generates 100 at maximum so I say reliability as LOW.
 Screenshot:
- ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
+ ![Alert 1](Images/Alerts/Extensive_HTTP_Errors.jpg)
 
 Name of Alert 2
 HTTP Request Size Monitor is implemented as follows:
