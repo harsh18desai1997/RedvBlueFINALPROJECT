@@ -1,10 +1,9 @@
 ## Blue Team: Summary of Operations
 
 Table of Contents
-
-Network Topology.
-Description of Targets.
-Monitoring the Targets.
+ -Network Topology
+ -Description of Targets
+ -Monitoring the Targets
 
 Network Topology.
 TODO: Fill out the information below.
