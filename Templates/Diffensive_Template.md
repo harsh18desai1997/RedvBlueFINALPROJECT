@@ -47,7 +47,7 @@ Threshold: 400 For The Last 5 Minutes.
 Vulnerability Mitigated: HTTP Response Status Code.
 Reliability: Generates 100 at maximum so I say reliability as LOW.
 Screenshot:
- ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)_
+ ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
 
 Name of Alert 2
 HTTP Request Size Monitor is implemented as follows:
@@ -55,6 +55,8 @@ Metric: when sum of request size goes above 3500.
 Threshold: 3500 Last 1 Minutes.
 Vulnerability Mitigated: Sum of Request Size Exceed the threshold.
 Reliability: as per the report, Five times the result exceeds the threshold set by 1500 values, so I say reliability as MEDIUM
+Screenshot:
+ ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
 
 Name of Alert 3
 CPU Usage Monitor is implemented as follows:
@@ -62,3 +64,5 @@ Metric: when maximum number of processes running on cpu goes above 0.5.
 Threshold: 0.5
 Vulnerability Mitigated: Maximum System Processes Running on CPU Every Minute.
 Reliability: Reliability is LOW in this alert, because all the cpu usage goes way below 0.5.
+Screenshot:
+ ![Alert 1](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
