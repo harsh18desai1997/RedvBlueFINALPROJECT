@@ -46,6 +46,8 @@ Metric: When count of http response status code goes above 400.
 Threshold: 400 For The Last 5 Minutes.
 Vulnerability Mitigated: HTTP Response Status Code.
 Reliability: Generates 100 at maximum so I say reliability as LOW.
+Screenshot:
+_![](Screenshots/Alerts/HTTP_Errors_Alert.jpg)
 
 Name of Alert 2
 HTTP Request Size Monitor is implemented as follows:
