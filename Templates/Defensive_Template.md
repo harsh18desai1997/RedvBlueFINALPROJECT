@@ -37,27 +37,27 @@ Monitoring the Targets
 Traffic to these services should be carefully monitored. To this end, we have implemented the alerts below:
 
 ### _Name of Alert 1: Extensive HTTP Errors_
-•	Extensive HTTP Errors is implemented as follows:
-•	Metric: When count of http response status code goes above 400.
-•	Threshold: 400 For The Last 5 Minutes.
-•	Vulnerability Mitigated: HTTP Response Status Code.
-•	Reliability: Generates 100 at maximum so I say reliability as LOW.\
-•	Screenshot: 
+*	Extensive HTTP Errors is implemented as follows:
+*	Metric: When count of http response status code goes above 400.
+*	Threshold: 400 For The Last 5 Minutes.
+*	Vulnerability Mitigated: HTTP Response Status Code.
+*	Reliability: Generates 100 at maximum so I say reliability as LOW.\
+*	Screenshot: 
 
 
 ### _Name of Alert 2: HTTP Request Size Monitor_
-•	HTTP Request Size Monitor is implemented as follows:
-•	Metric: when sum of request size goes above 3500.
-•	Threshold: 3500 Last 1 Minutes.
-•	Vulnerability Mitigated: Sum of Request Size Exceed the threshold.
-•	Reliability: as per the report, Five times the result exceeds the threshold set by 1500 values, so I say reliability as MEDIUM
-•	Screenshot:
+*	HTTP Request Size Monitor is implemented as follows:
+*	Metric: when sum of request size goes above 3500.
+*	Threshold: 3500 Last 1 Minutes.
+*	Vulnerability Mitigated: Sum of Request Size Exceed the threshold.
+*	Reliability: as per the report, Five times the result exceeds the threshold set by 1500 values, so I say reliability as MEDIUM
+*	Screenshot:
 
 ### _Name of Alert 3: CPU Usage Monitor_
-•	CPU Usage Monitor is implemented as follows:
-•	Metric: when maximum number of processes running on cpu goes above 0.5.
-•	Threshold: 0.5
-•	Vulnerability Mitigated: Maximum System Processes Running on CPU Every Minute.
-•	Reliability: Reliability is LOW in this alert, because all the cpu usage goes way below 0.5.
-•	Screenshot:
+*	CPU Usage Monitor is implemented as follows:
+*	Metric: when maximum number of processes running on cpu goes above 0.5.
+*	Threshold: 0.5
+*	Vulnerability Mitigated: Maximum System Processes Running on CPU Every Minute.
+* Reliability: Reliability is LOW in this alert, because all the cpu usage goes way below 0.5.
+*	Screenshot:
 
