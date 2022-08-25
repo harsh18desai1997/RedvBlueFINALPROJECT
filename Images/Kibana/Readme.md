@@ -1,4 +1,4 @@
-# Kibana Images
+## Kibana Images
   1. Index Patters
   2. Result_Condition_Met
   3. Trial_License
